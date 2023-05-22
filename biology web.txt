@@ -1,0 +1,46 @@
+
+
+Main colors
+#00235B ---- Deep Blue
+#E21818 ---- Red
+#FFDD83 ----- light yellow
+optional 
+#98DFD6 ---- sky blue
+
+
+3 Dark colors
+3 font colors (#fff, 0.96, 0.67, 0.45)
+3 Small lengths
+	0.375rem (6px)
+	0.625rem (10px)
+	0.875rem (14px)
+3 Medium lengths
+	1rem (16px)
+	1.375rem (22px)
+	1.75rem (28px)
+3 Large lengths
+	2.5rem (40px)
+	3.5rem (56px)
+	4.5rem (72px)
+
+The goal of our biology subject website is to provide accessible and engaging content that educates and inspires visitors about various aspects of biology. We aim to foster a deeper understanding and appreciation of the natural world, while promoting scientific literacy and critical thinking. Our website will serve as a reliable resource for students, educators, and anyone with an interest in biology, offering comprehensive information, interactive tools, and the latest updates in the field. Through our content, we strive to ignite curiosity, encourage exploration, and empower individuals to make informed decisions that positively impact themselves and the environment.
+
+
+
+Visiting a biology subject website offers several advantages for individuals interested in biology and related fields. Here are some key benefits:
+
+Comprehensive Information: A biology website provides a wide range of information, covering various topics and sub-disciplines of biology. It offers detailed explanations, diagrams, and examples to enhance understanding and knowledge acquisition.
+
+Accessible Learning: Websites provide a convenient and accessible platform for learning biology. Visitors can access the content anytime and anywhere, allowing for self-paced learning and flexibility.
+
+Interactive Resources: Many biology websites offer interactive resources such as quizzes, videos, simulations, and virtual labs. These engaging tools provide hands-on experiences, helping to reinforce concepts and improve retention.
+
+Updated and Current Content: Biology is a dynamic field with ongoing research and discoveries. A biology website often includes the latest information, research findings, and news updates, ensuring visitors stay informed about current trends and developments.
+
+Supplementary Learning Material: Biology websites can serve as valuable supplementary resources for students. They can complement textbooks and classroom instruction, providing additional explanations, examples, and real-world applications of biological concepts.
+
+Community and Collaboration: Some biology websites foster a sense of community by offering discussion forums, chat rooms, or social media platforms. This allows visitors to connect with like-minded individuals, share knowledge, ask questions, and engage in discussions, creating a collaborative learning environment.
+
+Career Exploration: A biology website may offer insights into various career paths within the biological sciences. It can provide information about different job roles, educational requirements, and opportunities for further study or research, helping individuals make informed decisions about their career choices.
+
+Resource Consolidation: A biology website serves as a centralized hub for diverse biology-related resources. It may provide links to scientific articles, books, reputable online references, and other useful materials, saving time and effort in searching for credible information across multiple sources.
